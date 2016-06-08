@@ -1,12 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## There are tow functions in this programm
-## firt fn makeCacheMatrix does four tasks using four function when called upon..
+## There are two functions in this programm
+## firt fn is makeCacheMatrix. It does four tasks using four function when called upon..
 ## 1. Set the matrix passed by argument to variable x
 ## 2. Get the matrix if already exixt otherwise returns null
 ## 3. set the value of inverse
 ## 4. get the value of inverse of matrix if calculated
-## Write a short comment describing this function 
 
 makeCacheMatrix <- function(x = matrix()) {
         n <- NULL
